@@ -1,3 +1,5 @@
+# Git Tutorial Repository
+
 > **Note**: This repository was created while following the [Boot.dev Git Course](https://www.boot.dev/learn/learn-git-2).  
 > It is intended solely for **learning and experimentation** of Git, and not for production use.
 > This codebase:
